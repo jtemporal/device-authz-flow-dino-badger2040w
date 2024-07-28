@@ -1,0 +1,4 @@
+<your domain>
+<client ID>
+RS256
+<API audience>
