@@ -2,7 +2,7 @@
 
 This repo holds the file to run the Dino Game from Google Chrome coded in MicroPython and ported to Pimoroni Badger 2040 W.
 
-The version adapted by Jerzy Głowacki here was modified to account for the interaction with an external API that holds a leaderboard and Auth0 to host the user data.
+The [version adapted by Jerzy Głowacki](https://github.com/niutech/dino-badger2040), here was modified to account for the interaction with an external API that holds a leaderboard and Auth0 to host the user data.
 
 ## Set Up
 
